@@ -1,4 +1,4 @@
-package facade.problem
+package facade
 
 class NotificationServer {
 

@@ -1,4 +1,4 @@
-package facade.problem
+package facade
 
 class Connection(private val ipAddress: String) {
 

@@ -1,5 +1,8 @@
 package facade.problem
 
+import facade.Message
+import facade.NotificationServer
+
 object Client {
 
     @JvmStatic
