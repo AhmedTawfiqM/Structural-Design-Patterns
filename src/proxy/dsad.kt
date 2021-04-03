@@ -1,4 +1,0 @@
-package proxy
-
-class dsad {
-}
